@@ -1,2 +1,3 @@
 # amigo-secreto
-desafio do alura one
+Desafio do alura one
+codigo desenvolvido com JS, utilizando logica de programação. 
